@@ -1,3 +1,5 @@
+package inheritance;
+
 class Calculation {
     int z;
      
